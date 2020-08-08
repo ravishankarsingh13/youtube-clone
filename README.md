@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+This is host on firebase and link is (https://clone-76dc0.web.app)
 
 ## Available Scripts
 
